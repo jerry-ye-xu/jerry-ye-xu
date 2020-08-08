@@ -51,6 +51,11 @@ My interest is in enabling ML products through robust software engineering and s
 
 ---
 
+<br/>
+<br/>
+
+I would like to thank codeSTACKr for introducing me to this. :D 
+
 [website]: https://jerry-ye-xu.github.io
 [twitter]: https://twitter.com/jerryyexu1
 [linkedin]: https://linkedin.com/in/jerry-ye-xu/
