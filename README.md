@@ -42,11 +42,11 @@ My interest is in enabling ML products through robust software engineering and s
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Notion for Project Management](http://jerry-ye-xu.github.io//notion/localcluster/project%20manangement/miscellaneous/2020/08/09/notion-for-project-management/)
 - [Reflecting on my summer research at Data61](http://jerry-ye-xu.github.io//deep%20learning/pytorch/research/data61/nlp/practical/2020/07/30/reflection-summer-research/)
-- [PySpark data trap - inferschema](http://jerry-ye-xu.github.io//pyspark/data%20wrangling/practical/2020/06/27/pyspark-inferschema-trap/)
+- [Robust Pandas pipelines](http://jerry-ye-xu.github.io//python/data%20wrangling/pipelines/reproducible/practical/2020/07/13/robust-pandas-pipelines/)
+- [PySpark data trap - inferschema](http://jerry-ye-xu.github.io//python/pyspark/data%20wrangling/practical/2020/06/27/pyspark-inferschema-trap/)
 - [Integer Programming](http://jerry-ye-xu.github.io//integer%20programming/matriod%20property/optimisation/theory/2019/11/12/integer-programming/)
-- [Zero-sum Games and the Minimax Algoritrhm](http://jerry-ye-xu.github.io//game%20theory/linear%20programming/zero-sum/minimax/theory/2019/09/13/zero-sum-games/)
-- [The Simplex Algorithm - Part 2](http://jerry-ye-xu.github.io//simplex/linear%20programming/optimisation/theory/2019/08/31/simplex-algorithm-part-two/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
