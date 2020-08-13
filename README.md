@@ -11,7 +11,7 @@
 
 My name is Jerry, a statistics and computer science student at Sydney University.
 
-My interest is in enabling ML products through robust software engineering and stringent monitoring. Math and modelling are fun too, but working in industry means that the surrounding components of ML often drive the most impact.
+I am interested in building analytics and machine learning products, especially the data engineering, ML-Ops and model monitoring side of things.
 
 ### Connect with me:
 
