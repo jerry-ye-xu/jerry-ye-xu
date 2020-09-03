@@ -11,7 +11,7 @@
 
 My name is Jerry, a computer science, statistics and math student at Sydney University.
 
-I am interested in building analytics and machine learning products, especially the data engineering, ML-Ops and deep learning side of things.
+I am interested in building analytics and machine learning products, especially the data engineering, deep learning and ML-Ops side of things.
 
 ### Connect with me:
 
