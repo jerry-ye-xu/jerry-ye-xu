@@ -9,7 +9,7 @@
 
 <br/>
 
-My name is Jerry, a statistics and computer science student at Sydney University.
+My name is Jerry, a computer science, statistics and math student at Sydney University.
 
 I am interested in building analytics and machine learning products, especially the data engineering, ML-Ops and deep learning side of things.
 
