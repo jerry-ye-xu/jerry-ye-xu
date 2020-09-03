@@ -54,7 +54,7 @@ I am interested in building analytics and machine learning products, especially 
 <br/>
 <br/>
 
-I would like to thank codeSTACKr for introducing me to this. :D 
+I would like to thank [codeSTACKr](https://www.youtube.com/watch?v=ECuqb5Tv9qI) for introducing me to this. :D 
 
 [website]: https://jerry-ye-xu.github.io
 [twitter]: https://twitter.com/jerryyexu1
