@@ -2,7 +2,7 @@
 
 ## Brief intro:
 - 🍈 &nbsp; Currently working at HelloFresh
-- ♦️ &nbsp; Currently learning Scala
+- ♦️ &nbsp; Currently learning design patterns
 - 🐝 &nbsp; Check out our data project [localCluster]
 - ⛳ &nbsp; Favourite quote: "Micro intensity, macro patience"
 - 🏸 &nbsp; Fun fact: I play badminton :D
