@@ -1,8 +1,8 @@
 ### Hi there, I'm Jerry! 👋
 
 ## Brief intro:
-- 🍈 &nbsp; Currently working at HelloFresh
-- ♦️ &nbsp; Currently learning design patterns
+- 🍈 &nbsp; Currently working at ? (:P)
+- ♦️ &nbsp; Currently studying for GCP data engineering certification
 - 🐝 &nbsp; Check out our data project [localCluster]
 - ⛳ &nbsp; Favourite quote: "Micro intensity, macro patience"
 - 🏸 &nbsp; Fun fact: I play badminton :D
