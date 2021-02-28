@@ -3,7 +3,7 @@
 ## Brief intro:
 - 🎨 &nbsp; Machine Learning Engineer @ Canva
 - ♦️ &nbsp; Currently studying functional programming
-- 🐝 &nbsp; Check out our data project [localCluster]
+- 🐝 &nbsp; Currently working on NLP projects
 - ⛳ &nbsp; Favourite quote: "Micro intensity, macro patience"
 - 🏸 &nbsp; Fun fact: I play badminton :D
 
