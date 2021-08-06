@@ -13,6 +13,17 @@ My name is Jerry, a computer science and statistics student at Sydney University
 
 I am interested in building software products powered by ML.
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Robust Pandas pipelines](https://triple-stack-data.netlify.app//python/data%20wrangling/pipelines/reproducible/software%20engineering/2021/08/01/robust-pandas-pipelines/)
+- [Price Elasticity in Retail](https://triple-stack-data.netlify.app//price%20elasticity/demand%20modelling/python/machine%20learning/2021/07/27/price-elasticity-retail-analytics/)
+- [Environment Variables for Cron Jobs](https://triple-stack-data.netlify.app//cron/bash/nifty%20tricks/software%20engineering/2021/07/19/env-var-cron-jobs/)
+- [Running R in Python with `Rpy2`](https://triple-stack-data.netlify.app//machine%20learning/2021/07/10/using-r-in-python/)
+- [What to study? A guide for students](https://triple-stack-data.netlify.app//musings/2021/07/03/what-to-study-a-guide-for-students/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="jerry-ye-xu | Email " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
@@ -39,15 +50,6 @@ I am interested in building software products powered by ML.
 
 <br/>
 <br/>
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Robust Pandas pipelines](https://triple-stack-data.netlify.app//python/data%20wrangling/pipelines/reproducible/software%20engineering/2021/08/01/robust-pandas-pipelines/)
-- [Price Elasticity in Retail](https://triple-stack-data.netlify.app//price%20elasticity/demand%20modelling/python/machine%20learning/2021/07/27/price-elasticity-retail-analytics/)
-- [Environment Variables for Cron Jobs](https://triple-stack-data.netlify.app//cron/bash/nifty%20tricks/software%20engineering/2021/07/19/env-var-cron-jobs/)
-- [Running R in Python with `Rpy2`](https://triple-stack-data.netlify.app//machine%20learning/2021/07/10/using-r-in-python/)
-- [What to study? A guide for students](https://triple-stack-data.netlify.app//musings/2021/07/03/what-to-study-a-guide-for-students/)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
