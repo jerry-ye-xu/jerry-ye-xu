@@ -1,8 +1,8 @@
 ### Hi there, I'm Jerry! 👋
 
 ## Brief intro:
-- 🎨 &nbsp; Machine Learning Engineer @ Canva (Search & Recommendations)
-- 🌱 &nbsp; [Writing @ Triple Stack Data](https://triple-stack-data.io)
+- 🎨 &nbsp; Machine Learning Engineer @ [Canva](https://www.canva.com/) (Search & Recommendations)
+- 🌱 &nbsp; Writing @ [Triple Stack Data](https://www.triple-stack-data.io/posts/)
 - 🐝 &nbsp; Currently working on web-apps for personal use
 - ⛳ &nbsp; Favourite quote: "Micro intensity, macro patience"
 - 🏸 &nbsp; Fun fact: I play badminton :D
