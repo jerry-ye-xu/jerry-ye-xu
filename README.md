@@ -42,11 +42,11 @@ I am interested in building software products powered by ML.
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Notion for Project Management](http://jerry-ye-xu.github.io//notion/localcluster/project%20manangement/miscellaneous/2020/08/09/notion-for-project-management/)
-- [Reflecting on my summer research at Data61](http://jerry-ye-xu.github.io//deep%20learning/pytorch/research/data61/nlp/practical/2020/07/30/reflection-summer-research/)
-- [Robust Pandas pipelines](http://jerry-ye-xu.github.io//python/data%20wrangling/pipelines/reproducible/practical/2020/07/13/robust-pandas-pipelines/)
-- [PySpark data trap - inferschema](http://jerry-ye-xu.github.io//python/pyspark/data%20wrangling/practical/2020/06/27/pyspark-inferschema-trap/)
-- [Integer Programming](http://jerry-ye-xu.github.io//integer%20programming/matriod%20property/optimisation/theory/2019/11/12/integer-programming/)
+- [Robust Pandas pipelines](https://triple-stack-data.netlify.app//python/data%20wrangling/pipelines/reproducible/software%20engineering/2021/08/01/robust-pandas-pipelines/)
+- [Price Elasticity in Retail](https://triple-stack-data.netlify.app//price%20elasticity/demand%20modelling/python/machine%20learning/2021/07/27/price-elasticity-retail-analytics/)
+- [Environment Variables for Cron Jobs](https://triple-stack-data.netlify.app//cron/bash/nifty%20tricks/software%20engineering/2021/07/19/env-var-cron-jobs/)
+- [Running R in Python with `Rpy2`](https://triple-stack-data.netlify.app//machine%20learning/2021/07/10/using-r-in-python/)
+- [What to study? A guide for students](https://triple-stack-data.netlify.app//musings/2021/07/03/what-to-study-a-guide-for-students/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
