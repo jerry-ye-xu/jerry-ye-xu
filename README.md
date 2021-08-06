@@ -15,7 +15,7 @@ I am interested in building software products powered by ML.
 
 ### Connect with me:
 
-[<img align="left" alt="jerry-ye-xu | Email " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][email]
+[<img align="left" alt="jerry-ye-xu | Email " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="jerry-ye-xu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jerry-ye-xu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
