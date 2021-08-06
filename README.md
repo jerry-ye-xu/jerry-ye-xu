@@ -1,9 +1,9 @@
 ### Hi there, I'm Jerry! 👋
 
 ## Brief intro:
-- 🎨 &nbsp; Machine Learning Engineer @ Canva
-- ♦️ &nbsp; Currently building web-apps for personal use
-- 🐝 &nbsp; Currently working on NLP projects
+- 🎨 &nbsp; Machine Learning Engineer @ Canva (Search & Recommendations)
+- 🌱 &nbsp; [Writing @ Triple Stack Data](https://triple-stack-data.io)
+- 🐝 &nbsp; Currently working on web-apps for personal use
 - ⛳ &nbsp; Favourite quote: "Micro intensity, macro patience"
 - 🏸 &nbsp; Fun fact: I play badminton :D
 
@@ -56,7 +56,5 @@ I am interested in building software products powered by ML.
 
 I would like to thank [codeSTACKr](https://www.youtube.com/watch?v=ECuqb5Tv9qI) for introducing me to this. :smile: 
 
-[website]: https://jerry-ye-xu.github.io
 [twitter]: https://twitter.com/jerryyexu1
 [linkedin]: https://linkedin.com/in/jerry-ye-xu/
-[localCluster]: https://www.notion.so/jerryyexu/d6080eae902d485c9629a4619378c714?v=540edf693a8746968a74360520ea5f80
