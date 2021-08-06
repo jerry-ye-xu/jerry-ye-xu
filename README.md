@@ -15,7 +15,7 @@ I am interested in building software products powered by ML.
 
 ### Connect with me:
 
-[<img align="left" alt="jerry-ye-xu.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jerry-ye-xu | Email " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][email]
 [<img align="left" alt="jerry-ye-xu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jerry-ye-xu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -56,5 +56,6 @@ I am interested in building software products powered by ML.
 
 I would like to thank [codeSTACKr](https://www.youtube.com/watch?v=ECuqb5Tv9qI) for introducing me to this. :smile: 
 
+[email]: mailto:jerryyexu@gmail.com
 [twitter]: https://twitter.com/jerryyexu1
 [linkedin]: https://linkedin.com/in/jerry-ye-xu/
