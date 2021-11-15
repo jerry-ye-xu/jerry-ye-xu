@@ -17,7 +17,7 @@ I am interested in building software products powered by ML.
 <!-- BLOG-POST-LIST:START -->
 - [Helpful uses of double asterisks in Python](https://triple-stack-data.netlify.app//python/snippets/config/software%20engineering/2021/08/18/double-asterisks/)
 - [Helpful uses of double asterisks in Python](https://triple-stack-data.netlify.app//python/snippets/config/software%20engineering/2021/08/17/double-asterisks/)
-- [Python Type-hinting (pt. 1)](https://triple-stack-data.netlify.app//python/type-hints/production/software%20engineering/2021/08/09/type-hinting-guide-pt1/)
+- [Python Type-hinting &lpar;pt. 1&rpar;](https://triple-stack-data.netlify.app//python/type-hints/production/software%20engineering/2021/08/09/type-hinting-guide-pt1/)
 - [Robust Pandas pipelines](https://triple-stack-data.netlify.app//python/data%20wrangling/pipelines/reproducible/software%20engineering/2021/08/01/robust-pandas-pipelines/)
 - [Price Elasticity in Retail](https://triple-stack-data.netlify.app//price%20elasticity/demand%20modelling/python/machine%20learning/2021/07/27/price-elasticity-retail-analytics/)
 <!-- BLOG-POST-LIST:END -->
