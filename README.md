@@ -29,6 +29,7 @@ I am interested in building software products powered by ML.
 [<img align="left" alt="jerry-ye-xu | Email " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="jerry-ye-xu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jerry-ye-xu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jerry-ye-xu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
@@ -64,3 +65,4 @@ I would like to thank [codeSTACKr](https://www.youtube.com/watch?v=ECuqb5Tv9qI) 
 [email]: mailto:jerryyexu@gmail.com
 [twitter]: https://twitter.com/jerryyexu1
 [linkedin]: https://linkedin.com/in/jerry-ye-xu/
+[instagram]: https://www.instagram.com/jerryx_86/
