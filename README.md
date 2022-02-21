@@ -15,11 +15,11 @@ I am interested in building software products powered by ML.
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [200+ hrs on full stack… part 2](https://triple-stack-data.netlify.app//web%20dev/python/django/react/aws/full%20stack/software%20engineering/2022/02/16/200hrs-full-stack-part-two/)
 - [I reframed my mindset - coding is just a hobby](https://triple-stack-data.netlify.app//career/software%20engineering/life/musings/2022/02/10/I-framed-my-mindset/)
 - [200+ hrs on full stack… part 1](https://triple-stack-data.netlify.app//web%20dev/python/django/react/aws/full%20stack/software%20engineering/2022/01/26/200hrs-full-stack-part-one/)
 - [Helpful uses of double asterisks in Python](https://triple-stack-data.netlify.app//python/snippets/config/software%20engineering/2021/08/18/double-asterisks/)
 - [Python Type-hinting &lpar;pt. 1&rpar;](https://triple-stack-data.netlify.app//python/type-hints/production/software%20engineering/2021/08/09/type-hinting-guide-pt1/)
-- [Robust Pandas pipelines](https://triple-stack-data.netlify.app//python/data%20wrangling/pipelines/reproducible/software%20engineering/2021/08/01/robust-pandas-pipelines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
