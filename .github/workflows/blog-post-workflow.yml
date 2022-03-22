@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://triple-stack-data.io/feed.xml"
+          feed_list: "https://devs-do-data.io/feed.xml"
