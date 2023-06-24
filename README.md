@@ -1,9 +1,9 @@
 ### Hi there, I'm Jerry! 👋
 
 ## Brief intro:
-- 🎨 &nbsp; Machine Learning Engineer @ [Canva](https://www.canva.com/) (Search & Recommendations)
-- 🌱 &nbsp; Writing @ [Devs Do Data](https://www.devs-do-data.io/posts/)
-- 🐝 &nbsp; Currently working on web-apps for personal use
+- 🎨 &nbsp; Machine Learning Engineer @ [Canva](https://www.canva.com/) (ML Platform)
+- 🌱 &nbsp; Writing @ [Penguin Engineering](https://penguin-engineering.netlify.app/))
+- 🐝 &nbsp; Currently working on computer vision related freelancing projects
 - ⛳ &nbsp; Favourite quote: "Micro intensity, macro patience"
 - 🏸 &nbsp; Fun fact: I play badminton :D
 
